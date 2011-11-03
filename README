@@ -2,6 +2,10 @@
 
 Temporary home of new EPU bootstrapping code
 
+## Prerequisites
+
+pyyaml==3.10
+
 ## Usage
 
 ...
